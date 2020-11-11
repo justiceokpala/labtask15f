@@ -1,0 +1,11 @@
+C:\CodebitsAcademy\c#\labtask15f\GenericTest\bin\Debug\netcoreapp3.1\GenericTest.exe
+C:\CodebitsAcademy\c#\labtask15f\GenericTest\bin\Debug\netcoreapp3.1\GenericTest.deps.json
+C:\CodebitsAcademy\c#\labtask15f\GenericTest\bin\Debug\netcoreapp3.1\GenericTest.runtimeconfig.json
+C:\CodebitsAcademy\c#\labtask15f\GenericTest\bin\Debug\netcoreapp3.1\GenericTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\c#\labtask15f\GenericTest\bin\Debug\netcoreapp3.1\GenericTest.dll
+C:\CodebitsAcademy\c#\labtask15f\GenericTest\bin\Debug\netcoreapp3.1\GenericTest.pdb
+C:\CodebitsAcademy\c#\labtask15f\GenericTest\obj\Debug\netcoreapp3.1\GenericTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\c#\labtask15f\GenericTest\obj\Debug\netcoreapp3.1\GenericTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\c#\labtask15f\GenericTest\obj\Debug\netcoreapp3.1\GenericTest.AssemblyInfo.cs
+C:\CodebitsAcademy\c#\labtask15f\GenericTest\obj\Debug\netcoreapp3.1\GenericTest.dll
+C:\CodebitsAcademy\c#\labtask15f\GenericTest\obj\Debug\netcoreapp3.1\GenericTest.pdb
